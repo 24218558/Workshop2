@@ -28,3 +28,5 @@ Closest Clip Search with Clip Input
 
 ### 8. `segment_anything.ipynb`
 Image Masking
+
+___
