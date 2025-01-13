@@ -26,5 +26,5 @@ Code to extract videos class pairing to json files
 ### 7. `video_to_video.ipynb`
 Closest Clip Search with Clip Input
 
-### 7. `segment_anything.ipynb`
+### 8. `segment_anything.ipynb`
 Image Masking
